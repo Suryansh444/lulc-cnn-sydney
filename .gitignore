@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# LULC Project specific
+usgs_download/
+*.TIF
+*.tif
+*.tar
+*.h5
+*.pkl
+.env
